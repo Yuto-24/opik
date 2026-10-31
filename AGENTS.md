@@ -76,4 +76,4 @@ This repository is a multi-module Opik codebase. Main areas:
 - `apps/opik-backend/src/main/resources/model_prices_and_context_window.json` and `apps/opik-frontend/src/data/model_prices_and_context_window.json` are generated artifacts.
 - Do not edit these files directly; updates should come from the repository updater automation.
 
-When documentation and existing code differ, follow the conventions used in the existing code and list every discrepancy you found in your final response.
+When a repository's documentation and its existing code disagree, follow the conventions used in the existing code, and in your final reply point out each inconsistency you found between the documentation and the code
